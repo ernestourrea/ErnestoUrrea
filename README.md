@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ErnestoUrrea
-- 👀 I’m interested in electronics (robotics and automation), and problem solving using programming. I program in Python, C++, C#, Arduino, MATLAB mainly.
-- 🌱 I’m currently learning MATLAB, Unity and soon I plan on start learning more about communication protocols and Gazebo.
+- 👀 I’m interested in electronics (robotics and automation), and problem solving using programming. 
+- 💻 Languages: Python, C++, C#, Arduino, MATLAB, C for PICs, R.
+- 🌱 I’m currently learning to build Neural Networks from scratch in MATLAB.
 - 📫 How to reach me ...
 
 <!---
