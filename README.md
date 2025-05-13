@@ -1,4 +1,17 @@
+```
 👋 Hi, I’m @ernestourrea
+👀 I’m interested in electronics, machine learning, control systems, signal processing, ...
+🌱 I’m currently learning scons
+
+🏫 B.S. in Electronics Engineering @ Tecnológico de Monterrey
+🚗 Firmware Integration Intern @ Tesla
+🚜 Former Electronics and Controls Intern @ John Deere
+🏎️ Embedded Systems Developer @ VantTec and TecRacing Student Groups
+
+💻 Languages: C, C++, MATLAB, Python, Java, Assembly, HTML, CSS, VHDL, C#
+🤖 Platforms: STM32, PIC16, PIC18, AVR, Arduino, Nucleo, Teensy, ESP32, C2000
+📏 Tools: KiCad, EasyEDA, NI Multisim, LTspice, Proteus, SolidWorks, Linux, Simulink, Git, GTest
+```
 
 <!---
 ernestourrea/ernestourrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
